@@ -1,4 +1,4 @@
-## how to use
+## How to use
 [Option_1]
 > If you want to download in native environment 
 >* run ```pip install -r requirements.txt```
@@ -10,4 +10,4 @@
 >* then, to activate the ML environment, run ```source yourVirtualEnvionmentName/bin/activate``` for linux
 > and, ```source yourVirtualEnvName/bin/Activate.ps1``` for windows
 
->Enjoy
+
